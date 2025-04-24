@@ -44,6 +44,4 @@
 
 ## 📬 Контакты
 
-- Telegram: [@pvnvna](https://t.me/pvnvna)  
-- Email: pvnvna@yandex.by  
-- Город: Минск, Беларусь
+- Telegram: [@pvnvna](https://t.me/pvnvna)
